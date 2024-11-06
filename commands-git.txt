@@ -1,5 +1,5 @@
 git clone <repository-url> <existing-directory-path>
 
-git remote add https://github.com/titouan-zins/git-begins.git
-git branch -M main
-git push -u main
+git add . 
+git commit -m "Modifications"
+git push
