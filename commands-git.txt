@@ -1,0 +1,5 @@
+git clone <repository-url> <existing-directory-path>
+
+git remote add origin https://github.com/titouan-zins/git-begins.git
+git branch -M main
+git push -u origin main
