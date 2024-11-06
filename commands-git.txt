@@ -3,3 +3,5 @@ git clone <repository-url> <existing-directory-path>
 git add . 
 git commit -m "Modifications"
 git push
+
+git pull ou git pull <remote> <branche>
